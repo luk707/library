@@ -49,6 +49,10 @@ class Complex {
   Normalize(): void {
     this.Become(Complex.Normalize(this));
   }
+
+  toString(): string {
+    return `${this.real} + ${this.imaginary}i`;
+  }
 }
 
 export default Complex;
