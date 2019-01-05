@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "@luk707/complex"
+  ],
+  "dependencies": {},
+  "scripts": {
+    "test": "jest"
+  }
+}
