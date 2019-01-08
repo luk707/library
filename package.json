@@ -1,7 +1,8 @@
 {
   "private": true,
   "workspaces": [
-    "@luk707/complex"
+    "@luk707/complex",
+    "@luk707/components"
   ],
   "dependencies": {},
   "scripts": {
